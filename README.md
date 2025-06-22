@@ -26,3 +26,4 @@ In conclusion, this air quality monitoring system successfully simulates the end
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/3e99b7f2-c74e-494b-80dd-71e226cb6231)
